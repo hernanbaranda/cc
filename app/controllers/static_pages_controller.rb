@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def contact
   end
+
+  def base_ingreso
+  end
 end
